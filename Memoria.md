@@ -26,6 +26,6 @@ Y en el ultimo ejercicio se está documentando todos los ejercicios previos y ac
 #### Valoración
 Pese a mi dudosa aprobación del tipo test, confío en que gracias al resto del examen poder aprovar, pues el resto de los ejercicios me han salido considerablemente bien.
 
-## Conclusió
+## Conclusión
 
 Pese a mi dudosa aprobación del tipo test, confío en que gracias al resto del examen poder aprovar, pues el resto de los ejercicios me han salido considerablemente bien.
