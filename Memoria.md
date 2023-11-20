@@ -21,7 +21,7 @@ En el segundo ejercio se ha realizado la documentación del ejercicio anterior y
 ![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/ejercicio3.png)  
 
 Y en el ultimo ejercicio se está documentando todos los ejercicios previos y actuales.  
-![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/Memoria.md)
+![Memoria](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/Memoria.md)
 
 #### Valoración
 Pese a mi dudosa aprobación del tipo test, confío en que gracias al resto del examen poder aprovar, pues el resto de los ejercicios me han salido considerablemente bien.
