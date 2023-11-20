@@ -12,4 +12,4 @@ El examen ha comenzado por el ejercicio tipo Test, continuando por el ejercicio 
 ## Presentación y valoración de los resultados
 
 En el ejercicio de ssh, hemos tenido que conectarnos a un ordenador en remoto y ejecutar ahí ciertos comandos como se puede ver en las siguientes capturas de pantalla:
-![Mi Imagen](images/sshnano.png)
+![Mi Imagen]([images/sshnano.png](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/sshnano.png)https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/sshnano.png)
