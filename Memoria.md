@@ -1,36 +1,10 @@
-# Hector Gasch Blasco
-## Examen DAW 1r Trimestre
-
-### Comandos utilizados
-- sudo nano HectorGaschBlasco.txt 
-- whoami > sudo nano HectorGaschBlasco.txt 
-- who -u | grep "pts/" >> $(echo "HectorGaschBlasco" | tr -d ' ').txt
-
-#### Primer paso
-
-Conectarse mediante ssh al ordenador en remoto
-
-```sh
-ssh usuario@192.168.0.148
-```
-
-Posteriormente la contraseña
-```sh
-DAMWDAWM
-```
-
-#### Segundo paso
+# Memoria
 
 
+## Introducción
 
-| Comando | Función |
-| ------ | ------ |
-| sudo | Permite estar o mantenerse en super usuario |
-| whoami | Muestra por pantalla el usuario actual |
-| > | Concatena el comando anterior con el siguiente |
-| who -u | Muestra información sobre los usuarios que están actualmente conectados al sistema |
-| nano | Crea y edita un archivo |
+Hoy dia 20/11/2023 se ha realizado el examen del primer trimestre de DAW sobre los conceptos de Github, de Markdown, de Bash, de SSH y de Documentación.
 
-### Bibliografía
+## Relación de la actividades realizadas
 
-> ChatGpt
+El examen ha comenzado por el ejercicio tipo Test, continuando por el ejercicio SSH, posteriormente la documentación de este y la creación de hosts virtuales, y culminando con la Documentación de todos los ejercicios anteriores
