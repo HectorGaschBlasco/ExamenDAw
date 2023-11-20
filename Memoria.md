@@ -18,4 +18,14 @@ En el ejercicio de ssh, hemos tenido que conectarnos a un ordenador en remoto y 
 ![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/sshnanocorrecto.png)  
 
 En el segundo ejercio se ha realizado la documentación del ejercicio anterior y se ha creado y modificado los hosts locales de apache para que en el buscador, al buscar _daw.ejercicio3.com_ saliera mi nombre.  
-![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/ejercicio3.png)
+![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/ejercicio3.png)  
+
+Y en el ultimo ejercicio se está documentando todos los ejercicios previos y actuales.  
+![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/Memoria.md)
+
+#### Valoración
+Pese a mi dudosa aprobación del tipo test, confío en que gracias al resto del examen poder aprovar, pues el resto de los ejercicios me han salido considerablemente bien.
+
+## Conclusió
+
+Pese a mi dudosa aprobación del tipo test, confío en que gracias al resto del examen poder aprovar, pues el resto de los ejercicios me han salido considerablemente bien.
