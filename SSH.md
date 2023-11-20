@@ -21,6 +21,18 @@ DAMWDAWM
 
 #### Segundo paso
 
+Una vez ya conectado, debemos crear un archivo _txt_ con nuestro nombre.
+![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/sshnano.png)
+
+#### Tercer paso
+
+Posteriormente empleamos el comando whoami y la concatenación de comando para introducir en el archivo la salida del comando.
+
+#### Cuarto paso
+
+Finalmente utilizamos el comando who para saber quien esta conectado y lo incrustamos una vez más en el archivo creado.
+![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/sshcomandowho.png)
+![Mi Imagen](https://github.com/HectorGaschBlasco/ExamenDAw/blob/main/sshnanocorrecto.png)  
 
 
 | Comando | Función |
